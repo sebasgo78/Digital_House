@@ -1,0 +1,42 @@
+header {
+  text-align: center;
+}
+
+.header-body {
+    background-color: #E6E6E6;
+}
+
+span {
+  font-style: italic;
+  font-weight: bold;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h3 {
+  color: #005677;
+  background-color: #c4c4c4;
+}
+
+li span {
+  font-weight: bold;
+}
+
+footer {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  image-orientation: center;
+  background-color: #005677;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 35px;
+}
+
+.section-main {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Alt + Shif + A */
